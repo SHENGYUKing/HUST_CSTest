@@ -12,5 +12,9 @@
 >
 >IP判址 - [IPCharge](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/IPCharge)
 >
->>二叉排序树 - [BSTree](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/BSTree)
+>二叉排序树 - [BSTree](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/BSTree)
+>
+>字符串连接 - [StrConnect](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/StrConnect)
+>
+>加法器(a+b) - [Summator](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/Summator)
 ---
