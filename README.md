@@ -17,4 +17,6 @@
 >字符串连接 - [StrConnect](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/StrConnect)
 >
 >加法器(a+b) - [Summator](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/Summator)
+>
+>升序排序 - [UpSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpSort)
 ---
