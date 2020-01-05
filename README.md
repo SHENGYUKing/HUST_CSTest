@@ -19,4 +19,6 @@
 >加法器(a+b) - [Summator](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/Summator)
 >
 >升序排序 - [UpSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpSort)
+>
+>特殊排序 - [MaxSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxSort)
 ---
