@@ -21,4 +21,6 @@
 >升序排序 - [UpSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpSort)
 >
 >特殊排序 - [MaxSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxSort)
+>
+>二叉树遍历 - [BTTrave](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/BTTrave)
 ---
