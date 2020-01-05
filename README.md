@@ -23,4 +23,8 @@
 >特殊排序 - [MaxSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxSort)
 >
 >二叉树遍历 - [BTTrave](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/BTTrave)
+>
+>奇偶校验 - [ParCheck](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/ParCheck)
+>
+>最大的两个数 - [MaxDoub](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxDoub)
 ---
