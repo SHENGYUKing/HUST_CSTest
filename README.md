@@ -27,4 +27,6 @@
 >奇偶校验 - [ParCheck](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/ParCheck)
 >
 >最大的两个数 - [MaxDoub](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxDoub)
+>
+>成绩排序 - [GradeSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/GradeSort)
 ---

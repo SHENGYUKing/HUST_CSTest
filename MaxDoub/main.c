@@ -5,12 +5,27 @@
 int main()
 {
     int mat[4][5];
-    while(~scanf("%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d",
-                 &mat[0][0], &mat[0][1], &mat[0][2], &mat[0][3], &mat[0][4],
-                 &mat[1][0], &mat[1][1], &mat[1][2], &mat[1][3], &mat[1][4],
-                 &mat[2][0], &mat[2][1], &mat[2][2], &mat[2][3], &mat[2][4],
-                 &mat[3][0], &mat[3][1], &mat[3][2], &mat[3][3], &mat[3][4])){
+    // incredible operation
+//    while(~scanf("%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d",
+//                 &mat[0][0], &mat[0][1], &mat[0][2], &mat[0][3], &mat[0][4],
+//                 &mat[1][0], &mat[1][1], &mat[1][2], &mat[1][3], &mat[1][4],
+//                 &mat[2][0], &mat[2][1], &mat[2][2], &mat[2][3], &mat[2][4],
+//                 &mat[3][0], &mat[3][1], &mat[3][2], &mat[3][3], &mat[3][4])){
+    while(1){
         int i,j;
+        int flg=0;
+        // input matrix
+        for(i=0;i<4;i++){
+            for(j=0;j<5;j++){
+                if(scanf("%d", &mat[i][j])==EOF)
+                    flg = 1;
+            }
+        }
+
+        if(flg==1){
+            break;
+        }
+
         // sort
         for(i=0;i<5;++i){
             for(j=2;j<4;++j){
