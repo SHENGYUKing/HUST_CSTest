@@ -29,4 +29,6 @@
 >最大的两个数 - [MaxDoub](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxDoub)
 >
 >成绩排序 - [GradeSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/GradeSort)
+>
+>链表遍历 - [LinkTrave](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/LinkTrave)
 ---

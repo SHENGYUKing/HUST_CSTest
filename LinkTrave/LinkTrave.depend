@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578300877 source:e:\project\c\hust_test\linktrave\main.c
+	<stdio.h>
+	<stdlib.h>
+
