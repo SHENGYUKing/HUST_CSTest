@@ -33,4 +33,6 @@
 >链表遍历 - [LinkTrave](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/LinkTrave)
 >
 >守形数 - [KSNum](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/KSNum)
+>
+>矩阵最大值 - [MaxInMat](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxInMat)
 ---
