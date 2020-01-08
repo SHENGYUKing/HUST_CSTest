@@ -37,4 +37,6 @@
 >矩阵最大值 - [MaxInMat](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MaxInMat)
 >
 >最小年龄员工 - [AgeSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/AgeSort)
+>
+>对称矩阵 - [SymMat](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SymMat)
 ---
