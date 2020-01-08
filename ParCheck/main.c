@@ -1,4 +1,4 @@
-/*∆Ê≈º–£—È*/
+/*parity check*/
 #include <stdio.h>
 #include <stdlib.h>
 

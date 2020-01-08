@@ -1,4 +1,4 @@
-/*单词统计*/
+/*words count*/
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,4 +1,4 @@
-/*льйБеепР*/
+/*special sort*/
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,4 +1,4 @@
-/*¾ØÕó×ªÖÃ*/
+/*matrix transpose*/
 #include <stdio.h>
 #include <stdlib.h>
 

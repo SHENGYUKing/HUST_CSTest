@@ -1,4 +1,4 @@
-/*最大两个数*/
+/*double max number in matrix*/
 #include <stdio.h>
 #include <stdlib.h>
 

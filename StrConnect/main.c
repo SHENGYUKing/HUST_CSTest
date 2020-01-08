@@ -1,4 +1,4 @@
-/*×Ö·û´®Á¬½Ó*/
+/*string connect*/
 #include <stdio.h>
 #include <stdlib.h>
 

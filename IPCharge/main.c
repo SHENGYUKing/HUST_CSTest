@@ -1,4 +1,4 @@
-/*IPÅÐÖ·*/
+/*IP charge*/
 #include <stdio.h>
 #include <stdlib.h>
 

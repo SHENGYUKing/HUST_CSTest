@@ -1,4 +1,4 @@
-/*ÊØĞÎÊı*/
+/*keep shape number*/
 #include <stdio.h>
 #include <stdlib.h>
 

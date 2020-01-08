@@ -1,15 +1,13 @@
-/*二叉排序树*/
+/*binary sort tree*/
 #include <stdio.h>
 #include <stdlib.h>
 
-// 建立二叉树结构
 struct BTNode{
     int val;
     struct BTNode* left;
     struct BTNode* right;
 };
 
-// 自定义函数,创建二叉树
 struct BTNode* createTree(int v){
     struct BTNode* bst = (struct BTNode*)malloc(sizeof(struct BTNode));
     bst->val = v;
@@ -18,7 +16,6 @@ struct BTNode* createTree(int v){
     return bst;
 }
 
-// 自定义函数，插入法建立二叉排序树
 void insert(struct BTNode* root, int v, int* ans, int* k){
     if(root != NULL){
         if(root->val > v){
@@ -44,7 +41,6 @@ void insert(struct BTNode* root, int v, int* ans, int* k){
     }
 }
 
-// 自定义函数，按题目要求输出
 void report(int* t, int n){
     int* ans = (int*)malloc(sizeof(int)*n);
     int i, k=1;

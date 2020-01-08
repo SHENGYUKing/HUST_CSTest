@@ -1,4 +1,4 @@
-/*Á´±í±éÀú*/
+/*linklist traversal*/
 #include <stdio.h>
 #include <stdlib.h>
 

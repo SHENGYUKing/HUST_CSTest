@@ -1,4 +1,4 @@
-/*ÉıĞòÅÅĞò*/
+/*up sort*/
 #include <stdio.h>
 #include <stdlib.h>
 

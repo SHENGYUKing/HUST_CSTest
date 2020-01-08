@@ -1,4 +1,4 @@
-/*¾ØÕó×î´óÖµ*/
+/*max number in matrix*/
 #include <stdio.h>
 #include <stdlib.h>
 
