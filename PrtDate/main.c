@@ -9,28 +9,35 @@ int main()
 {
     int y, n;
     while(~scanf("%d %d", &y, &n)){
-        int year, month, day;
-
-        year = y;
-        month = 0;
-        day = n;
-        // is leap year?
-        if((year%400==0)||(year%100!=0&&year%4==0)){
-            while(day>0){
-                day -= m_r[month];
-                month++;
-            }
-            day += m_r[month-1];
+        if(y<1 || n<1 || y>3000 || n>366){
+           break;
         }
         else{
-            while(day>0){
-                day -= m_n[month];
-                month++;
+            int year, month, day;
+            year = y;
+            month = 0;
+            day = n;
+            // is leap year?
+            if((year%400==0)||(year%100!=0&&year%4==0)){
+                while(day>0){
+                    day -= m_r[month];
+                    month++;
+                }
+                day += m_r[month-1];
             }
-            day += m_n[month-1];
-        }
+            else{
+                if(n==366){break;}
+                else{
+                    while(day>0){
+                        day -= m_n[month];
+                        month++;
+                    }
+                    day += m_n[month-1];
+                }
+            }
 
-        printf("%4d-%02d-%02d\n", year, month, day);
+            printf("%4d-%02d-%02d\n", year, month, day);
+        }
     }
     return 0;
 }
