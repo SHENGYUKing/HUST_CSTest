@@ -39,4 +39,8 @@
 >最小年龄员工 - [AgeSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/AgeSort)
 >
 >对称矩阵 - [SymMat](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SymMat)
+>
+>特殊加法器(A+B) - [SummatorII](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SummatorII)
+>
+>打印日期 - [PrtDate](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/PrtDate)
 ---
