@@ -49,5 +49,6 @@
 >长整数排序 - [LongSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/LongSort)
 >
 >上楼梯问题 - [UpStairs](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpStairs)
-
+>
+>回文字符串 - [PaString](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/PaString)
 ---
