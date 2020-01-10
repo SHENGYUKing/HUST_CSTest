@@ -47,5 +47,7 @@
 >二叉排序树遍历 - [BSTTrave](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/BSTTrave)
 >
 >长整数排序 - [LongSort](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/LongSort)
+>
+>上楼梯问题 - [UpStaris](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpStaris)
 
 ---
