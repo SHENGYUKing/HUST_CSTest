@@ -51,4 +51,10 @@
 >上楼梯问题 - [UpStairs](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/UpStairs)
 >
 >回文字符串 - [PaString](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/PaString)
+>
+>找位置 - [FindLoc](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/FindLoc)
+>
+>阶乘 - [Factorial](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/Factorial)
+>
+>八进制 - [OCTSys](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/OCTSys)
 ---

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578824044 source:e:\project\c\hust_test\octsys\main.c
+	<stdio.h>
+	<stdlib.h>
+
