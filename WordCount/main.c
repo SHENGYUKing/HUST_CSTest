@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 int main(){
-    int i=0;
     char s;
 
     while(~scanf("%c", &s)){
+        int i=0;
         if(s=='.'){
             printf("%d\n", i);
             break;
