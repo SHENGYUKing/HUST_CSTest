@@ -4,9 +4,9 @@
 
 int main(){
     char s;
-
+    int i=0;
+    
     while(~scanf("%c", &s)){
-        int i=0;
         if(s=='.'){
             printf("%d\n", i);
             break;
