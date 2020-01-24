@@ -9,11 +9,11 @@ struct BTNode{
 };
 
 struct BTNode* createTree(int v){
-    struct BTNode* bst = (struct BTNode*)malloc(sizeof(struct BTNode));
-    bst->val = v;
-    bst->left = NULL;
-    bst->right = NULL;
-    return bst;
+    struct BTNode* bt = (struct BTNode*)malloc(sizeof(struct BTNode));
+    bt->val = v;
+    bt->left = NULL;
+    bt->right = NULL;
+    return bt;
 }
 
 void insert(struct BTNode* root, int v, int* ans, int* k){
