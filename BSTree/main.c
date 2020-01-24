@@ -47,9 +47,9 @@ void report(int* t, int n){
 
     struct BTNode* root = createTree(t[0]);
     ans[0] = -1;
-    for(i=1;i<n;++i)
+    for(i=1;i<n;i++)
         insert(root, t[i], ans, &k);
-    for(i=0;i<n;++i)
+    for(i=0;i<n;i++)
         printf("%d\n", ans[i]);
 }
 
@@ -58,7 +58,7 @@ int main(){
     while(~scanf("%d", &n)){
         int* t = (int*)malloc(sizeof(int)*n);
         int i;
-        for(i=0;i<n;++i)
+        for(i=0;i<n;i++)
             scanf("%d", &t[i]);
         report(t, n);
     }
