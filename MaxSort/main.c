@@ -7,7 +7,7 @@ int main()
     int n;
     while(~scanf("%d", &n)){
         int a[n];
-        int i,j,temp;
+        int i,j;
         for(i=0;i<n;i++){
             scanf("%d", &a[i]);
         }
@@ -16,16 +16,15 @@ int main()
         for(i=0;i<n;i++){
             for(j=0;j<n-i-1;j++){
                 if(a[j] > a[j+1]){
-                    temp = a[j];
+                    int temp = a[j];
                     a[j] = a[j+1];
                     a[j+1] = temp;
                 }
             }
         }
 
-        temp = a[n-1];
-        printf("%d\n", temp);
-        if(n==1 && a[0]==temp){
+        printf("%d\n", a[n-1]);
+        if(n==1 || a[0]==a[n-1]){
             printf("-1");
         }
         else{
