@@ -32,7 +32,7 @@ int main()
             int i;
             StuInf t[n];
             for(i=0;i<n;i++){
-                scanf("%s%d%d", &t[i].name, &t[i].age, &t[i].grade);
+                scanf("%s %d %d", &t[i].name, &t[i].age, &t[i].grade);
             }
             // qsort(void* base, size_t num, size_t width, int(_udecl* copmare)(const void* , const void*));
             qsort(t, n, sizeof(StuInf), cmp);
