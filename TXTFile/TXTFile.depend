@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580719258 source:f:\project\gitpro\hust_cstest\txtfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
