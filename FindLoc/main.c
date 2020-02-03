@@ -11,18 +11,16 @@ int main()
         int n=strlen(s);
         int i, j;
         // initial flag
-        for(i=0;i<n;i++){
+        for(i=0;i<n;i++)
             flg[i] = 1;
-        }
         // charge one by one
         for(i=0;i<n;i++){
             // flg=1 means uncharged, flg=0 means charged
             if(flg[i]){
-                    int cnt=1;
+                int cnt=1;
                 for(j=i+1;j<n;j++){
-                    if(s[i]==s[j]){
+                    if(s[i]==s[j])
                         cnt++;
-                    }
                 }
                 if(cnt>1){
                     printf("%c:%d", s[i], i);
