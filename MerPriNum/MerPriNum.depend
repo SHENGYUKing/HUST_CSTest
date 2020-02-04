@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580790811 source:f:\project\gitpro\hust_cstest\merprinum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
