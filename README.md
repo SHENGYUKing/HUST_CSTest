@@ -61,4 +61,6 @@
 >TXT文件操作 - [TXTFile](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/TXTFile)
 >
 >梅森素数 - [MerPriNum](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/MerPriNum)
+>
+>打印代码 - [CodePrint](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/CodePrint)
 ---
