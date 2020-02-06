@@ -65,4 +65,6 @@
 >打印代码 - [CodePrint](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/CodePrint)
 >
 >加密输出 - [EncryptedOP](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/EncryptedOP)
+>
+>句子统计 - [SenStatistics](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SenStatistics)
 ---
