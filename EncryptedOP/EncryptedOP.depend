@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580956340 source:f:\project\gitpro\hust_cstest\encryptedop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
