@@ -67,4 +67,6 @@
 >加密输出 - [EncryptedOP](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/EncryptedOP)
 >
 >句子统计 - [SenStatistics](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SenStatistics)
+>
+>十二进制 - [DuoSys](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/DuoSys)
 ---

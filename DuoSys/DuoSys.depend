@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581136902 source:f:\project\gitpro\hust_cstest\duosys\main.c
+	<stdio.h>
+	<stdlib.h>
+
