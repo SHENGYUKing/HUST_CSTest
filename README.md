@@ -69,4 +69,6 @@
 >句子统计 - [SenStatistics](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SenStatistics)
 >
 >十二进制 - [DuoSys](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/DuoSys)
+>
+>分数转换 - [FracTrans](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/FracTrans)
 ---

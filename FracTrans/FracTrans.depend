@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581307984 source:f:\project\gitpro\hust_cstest\fractrans\main.c
+	<stdio.h>
+	<stdlib.h>
+
