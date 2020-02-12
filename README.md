@@ -73,4 +73,6 @@
 >分数转换 - [FracTrans](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/FracTrans)
 >
 >字母金字塔 - [LetterIDelta](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/LetterIDelta)
+>
+>字符串压缩 - [StrCompress](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/StrCompress)
 ---
