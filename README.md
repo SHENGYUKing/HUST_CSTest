@@ -77,4 +77,6 @@
 >字符串压缩 - [StrCompress](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/StrCompress)
 >
 >超级素数 - [SuperPrime](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/SuperPrime)
+>
+>字符处理 - [StrManage](https://github.com/SHENGYUKing/HUST_CSTest/tree/master/StrManage)
 ---

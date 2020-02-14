@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581665213 source:f:\project\gitpro\hust_cstest\strmanage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
